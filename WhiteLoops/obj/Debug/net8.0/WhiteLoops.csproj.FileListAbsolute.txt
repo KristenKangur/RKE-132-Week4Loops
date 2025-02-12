@@ -1,0 +1,14 @@
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\bin\Debug\net8.0\WhiteLoops.exe
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\bin\Debug\net8.0\WhiteLoops.deps.json
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\bin\Debug\net8.0\WhiteLoops.runtimeconfig.json
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\bin\Debug\net8.0\WhiteLoops.dll
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\bin\Debug\net8.0\WhiteLoops.pdb
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\obj\Debug\net8.0\WhiteLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\obj\Debug\net8.0\WhiteLoops.AssemblyInfoInputs.cache
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\obj\Debug\net8.0\WhiteLoops.AssemblyInfo.cs
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\obj\Debug\net8.0\WhiteLoops.csproj.CoreCompileInputs.cache
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\obj\Debug\net8.0\WhiteLoops.dll
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\obj\Debug\net8.0\refint\WhiteLoops.dll
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\obj\Debug\net8.0\WhiteLoops.pdb
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\obj\Debug\net8.0\WhiteLoops.genruntimeconfig.cache
+C:\Users\kangu\source\repos\Week4Loops\WhiteLoops\obj\Debug\net8.0\ref\WhiteLoops.dll
